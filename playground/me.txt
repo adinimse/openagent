@@ -1,0 +1,7 @@
+
+
+{{#user}}
+My name is Aditya.
+Here are my skills : html, css ,js , next.js . 
+My email id is adiyanimse1521@gmail.com.
+ {{/user}}
